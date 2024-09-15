@@ -1,0 +1,15 @@
+
+Top 3 Cosine similarities for query 'traveling light':
+Rank 1: Document 1 Score 0.2596
+Rank 2: Document 2 Score 0.0000
+Rank 3: Document 3 Score 0.0000
+
+Top 3 Cosine similarities for query 'plants hate math':
+Rank 1: Document 9 Score 0.2849
+Rank 2: Document 10 Score 0.2213
+Rank 3: Document 1 Score 0.0000
+
+Top 3 Cosine similarities for query 'thermometer bring a scarf':
+Rank 1: Document 7 Score 0.2916
+Rank 2: Document 5 Score 0.1293
+Rank 3: Document 8 Score 0.0092
